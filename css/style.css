@@ -103,9 +103,3 @@ color: var(--whiteColor);
     margin-left: 10px;
     color: var(--MainColor);
 }
-
-div.img:hover {
-    background: url(../images/icon-view.svg);
-    z-index: 9999;
-    opacity: 0.2;
-}
